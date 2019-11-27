@@ -1,1 +1,1 @@
-..\z_tools\imgtol.com w a: helloos.img
+..\z_tools\imgtol.com w G: helloos.img
